@@ -1,0 +1,10 @@
+DL7CD8009,Aditya,9899076253,student
+DL4CCB1111,Dhruv Yadav,000000006,other
+UP78CD0091,Muskan,Aggarwal,faculty
+UP78CD0099,Muskan,Chhaki,faculty
+DL2CAG0786,Aditya waris,5555,other
+DL3CBF3907,Parth rets,11111111,student
+DL3CBQ4698,DHRUV,2222,other
+WB65J4640,Nikhil Krishnan,98565656100,student
+KL65K606,abcd,123469,faculty
+DL3CBE9637,parth,54,student
